@@ -1,0 +1,30 @@
+Previous Company:Verusys software Pvt.Ltd
+Designation:Software Developer
+CTC:4.8L
+ECTC:7L
+Projects:
+1> Project Name: Collecta
+   Technologies Used: C# ,Asp.net,Sqlserver,webapi,WCF
+   Roles and responsibilities: Designed Master page and UI for consistent look of the site also for WebAPIs, Winodws Services and WCF Services.
+	                       Involving in UI design and coding using ASP.Net and C#
+	                       Responsible for development and maintenance.
+   Tools: VisualStudio,SSMS
+
+2> Project Name: Manyavar
+   Technologies Used: C# ,Asp.net,Sqlserver,webapi,WCF,MVC.
+   Roles and responsibilities: Designed Master page and UI for consistent look of the site also for WebAPIs, Winodws Services and WCF Services.
+	                       Involving in UI design and coding using ASP.Net and C#
+	                       Responsible for development and maintenance.
+   Tools: VisualStudio,SSMS
+
+3> Project Name: CSM
+   Technologies Used: C# ,Asp.net,Sqlserver,webapi,WCF,MVC.
+   Roles and responsibilities: Designed Master page and UI for consistent look of the site also for WebAPIs, Winodws Services and WCF Services.
+	                       Involving in UI design and coding using ASP.Net and C#
+	                       Responsible for development and maintenance.
+   Tools: VisualStudio,SSMS
+
+Personal Information:
+
+D.O.B: 17-07-1994
+Email: golidivakarreddy@gmail.com
